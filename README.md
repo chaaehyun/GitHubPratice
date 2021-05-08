@@ -222,18 +222,18 @@ GitHub repository URL :
 |명령어|사용여부|링크|
 |:---|---:|:---:|
 |add|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#2-%ED%8C%8C%EC%9D%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0|
-|branch|O|초기화|
-|checkout|O|변경 x|
+|branch|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#7-%EB%B8%8C%EB%9E%9C%EC%B9%98branch-%EC%82%AC%EC%9A%A9|
+|checkout|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#7-%EB%B8%8C%EB%9E%9C%EC%B9%98branch-%EC%82%AC%EC%9A%A9|
 |clone|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#2-2-git-clone-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9|
 |commit|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#4-%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD-%ED%99%95%EC%A0%95-%ED%95%98%EA%B8%B0|
 |config|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-git-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%ED%99%95%EC%9D%B8|
 |init|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-3-git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%83%9D%EC%84%B1|
-|log|O|변경 x|
-|merge|O|working directory|
-|pull|O|:---:|
-|push|O|변경 x|
-|rebase|x|초기화|
+|log|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#5-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0|
+|merge|x||
+|pull|x||
+|push|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#6-%EB%A1%9C%EC%BB%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%EC%84%9C-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A1%9C-%EC%9D%B4%EB%8F%99|
+|rebase|x||
 |remote|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%A1%B0%EC%9E%91|
-|reset --hard|x|변경 x|
+|reset --hard|x||
 |status|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-%ED%8C%8C%EC%9D%BC-%EC%83%81%ED%83%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0|
-|tag|O|변경 x|
+|tag|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#10-%ED%83%9C%EA%B7%B8tag-%EB%82%A8%EA%B8%B0%EA%B8%B0|
