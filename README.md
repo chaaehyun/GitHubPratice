@@ -1,4 +1,4 @@
-GitHub repository URL : 
+GitHub repository URL : https://github.com/chaaehyun/GitHubPratice/blob/c326130c63485bccb35979be8e3f4c2ccd1a6f7a/README.md
 
 # Git & Github 사용법
 
