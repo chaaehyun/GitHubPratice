@@ -30,3 +30,56 @@ GitHub repository URL :
 
 ### (2) Git Bash에서 깃 버전 확인
     git --version
+![verson](verson.png)
+
+### (3) Git 사용자 등록 및 확인
+- Git 설치 후, 사용 환경 설정 필요
+- git config 명령어로 이름, 이메일 설정하고 변경 가능  
+
+      git config --global user.name "name"
+      git config --global user.email "email address"
+![name](name.png)
+- 프로젝트 마다 다른 설정 원한다면, --global 빼기  
+
+      git config --list
+![config](config.png)
+- 사용자 확인 가능
+
+## 3. Git 저장소 생성
+- 첫번 째 방법 : 버전 관리를 하지 않는 로컬 저장소를 Git 저장소로 활용
+- 두번 째 방법 : 다른 곳에서 Git 저장소를 Clone하여 활용  
+
+### (1-1) 로컬 저장소로 활용할 폴더 생성
+![newfile](newfile.png)
+- GitHub_ch 폴더 생성
+
+### (1-2) 해당 폴더로 위치 이동
+- cd 명령어 사용  
+
+      cd [로컬 저장소 경로]
+![cd](cd.png)
+
+- 마우스 우클릭으로 Git Bash Here 실행
+![newfile2](newfile2.png)
+
+### (1-3) Git 원격 저장소 생성
+- 버전 관리를 하지 않는 기존 프로젝트를 Git으로 관리하기 위해 위의 과정을 거쳐 프로젝트의 디렉토리로 이동한 상태
+- git init 명령어 실행
+- 버전 관리를 하고 싶은 폴더에서 초기화 상태로 만드는 준비를 하는 명령어
+- 현재 디렉토리 기준 .git이라는 하위 디렉토리 Git 저장소 생성  
+
+      git init
+![init](init.png)
+
+------------
+### (2-1) 복제할 원격 저장소 clone 주소 복사
+### (2-2) git clone 명령어 사용
+- (1) 번은 버전관리를 하지 않는 기존 프로젝트를 Git으로 관리하는 방법, 이 방법은 기존 저장소를 복사하는 방법
+- 다른 프로젝트에 참여 혹은 Git 저장소를 복사할 때 사용
+- 로컬 저장소, Github에 있던 원격 저장소를 복사 가능  
+
+      git clone [URL]
+![clone](clone.png)
+
+## 4. Git 명령어
+#
