@@ -104,7 +104,7 @@ GitHub repository URL :
 - git status 는 현재 나의 로컬 폴더와 Git과의 상태를 체크해 줌  
       
       git status
-![status](status.png)
+![stastus](stastus.png)
 
 ### (4) 변경사항 확정 하기
 - git commit은 추가 된 파일이나 폴더의 내용을 저장소로 보낼 때 사용
@@ -162,7 +162,7 @@ GitHub repository URL :
 ![markdownstatus](markdownstatus.png)
 - status를 통해 상태 확인
 
-![pushorigin](pushorigin.png)
+![pushorign](pushorign.png)
 - push 명령으로 원격 저장소로 전송
 
 ![githubfirstbranch](githubfirstbranch.png)
@@ -221,19 +221,19 @@ GitHub repository URL :
 ## 5. 명령어 목록
 |명령어|사용여부|링크|
 |:---|---:|:---:|
-|add|O|변경 x|
+|add|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#2-%ED%8C%8C%EC%9D%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0|
 |branch|O|초기화|
 |checkout|O|변경 x|
-|clone|O|working directory|
-|commit|O|:---:|
-|config|O|변경 x|
-|init|O|초기화|
+|clone|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#2-2-git-clone-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9|
+|commit|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#4-%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD-%ED%99%95%EC%A0%95-%ED%95%98%EA%B8%B0|
+|config|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-git-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%ED%99%95%EC%9D%B8|
+|init|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-3-git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%83%9D%EC%84%B1|
 |log|O|변경 x|
 |merge|O|working directory|
 |pull|O|:---:|
 |push|O|변경 x|
 |rebase|x|초기화|
-|remote|O|변경 x|
+|remote|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%A1%B0%EC%9E%91|
 |reset --hard|x|변경 x|
-|status|O|초기화|
+|status|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-%ED%8C%8C%EC%9D%BC-%EC%83%81%ED%83%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0|
 |tag|O|변경 x|
