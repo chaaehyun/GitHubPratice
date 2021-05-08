@@ -229,11 +229,11 @@ GitHub repository URL :
 |config|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-git-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%ED%99%95%EC%9D%B8|
 |init|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-3-git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%83%9D%EC%84%B1|
 |log|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#5-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0|
-|merge|x||
-|pull|x||
+|merge|X||
+|pull|X||
 |push|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#6-%EB%A1%9C%EC%BB%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%EC%84%9C-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A1%9C-%EC%9D%B4%EB%8F%99|
-|rebase|x||
+|rebase|X||
 |remote|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#1-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%A1%B0%EC%9E%91|
-|reset --hard|x||
+|reset --hard|X||
 |status|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#3-%ED%8C%8C%EC%9D%BC-%EC%83%81%ED%83%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0|
 |tag|O|https://github.com/chaaehyun/GitHubPratice/blob/main/README.md#10-%ED%83%9C%EA%B7%B8tag-%EB%82%A8%EA%B8%B0%EA%B8%B0|
