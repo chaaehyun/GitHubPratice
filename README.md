@@ -24,3 +24,9 @@ GitHub repository URL :
 
 
 ## 2. Github 사용법  
+### (1) Git 다운로드  
+- Git SCM 접속 후 운영체제에 맞는 설치 파일 다운로드
+- Git SCM URL : https://git-scm.com/  
+
+### (2) Git Bash에서 깃 버전 확인
+    git --version
