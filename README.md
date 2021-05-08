@@ -82,4 +82,9 @@ GitHub repository URL :
 ![clone](clone.png)
 
 ## 4. Git 명령어
-#
+### (1) 원격 저장소 조작
+    git remote add [remote repository의 이름] [원격 저장소 github URL]
+![remoteadd](remoteadd.png)
+
+    git remote
+![
